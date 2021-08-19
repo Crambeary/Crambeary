@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raidersgun
 - 👀 I’m interested in automation, tool development, and proper refactoring...
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on tkinter applications and unit-testing
+- 💞️ I’m looking to collaborate on tkinter applications, unit-testing, selenium web testing.
 - 📫 How to reach me ... 
   @telegram - Crambeary
   @discord - Crambeary#1617
